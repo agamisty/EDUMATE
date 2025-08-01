@@ -1,0 +1,9 @@
+[theme]
+icon = "material"  
+
+base = "light"
+primaryColor = "#4a8fe7"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#31333f"
+font = "sans serif"
